@@ -2,8 +2,8 @@
   "__parent": "./config.json"
 , "person": {
       "name": {
-          "first":  "Tomas"
-        , "last":   "Baltrushaitis"
+          "first":  "Aaron"
+        , "last":   "Marquette"
         , "full":   "@{./last} @{./first}"
       }
     , "nick":   "Tom&acute;AS"
@@ -11,11 +11,11 @@
     , "email":  "@{./abbr}@gmail.com"
     , "url":    "http://bit.ly/tomascv"
     , "bio": {
-          "birth":        "October &apos;82"
-        , "citizenship":  "Ukrainian"
+          "birth":        "May &apos;87"
+        , "citizenship":  "citizenship"
         , "location": {
-              "country":  "Ukraine"
-            , "city":     "Kyiv"
+              "country":  "Los Angeles"
+            , "city":     "California"
             , "full":     "@{./country}, @{./city}"
             , "lat":      50.436336
             , "lng":      30.488619
@@ -31,30 +31,30 @@
             "name":   "linkedin"
           , "title":  "Linkedin profile"
           , "icon":   "fab fa-linkedin"
-          , "url":    "http://bit.ly/tomas-in"
+          , "url":    "linkedinurl"
         }
       , "git": {
             "name":   "git"
           , "title":  "Github account"
           , "icon":   "fab fa-github"
-          , "url":    "http://bit.ly/tomas-git"
+          , "url":    "giturl"
         }
       , "bb": {
             "name":   "bitbucket"
           , "title":  "BitBucket repos"
           , "icon":   "fab fa-bitbucket"
-          , "url":    "http://bit.ly/tomas-bb"
+          , "url":    "bitbucketurl"
         }
       , "docker": {
             "name":   "dockerhub"
           , "title":  "Docker Hub"
           , "icon":   "fab fa-docker"
-          , "url":    "http://bit.ly/tomas-hub"
+          , "url":    "dockerurl"
         }
       }
     , "contacts": {
-          "cell":   "KzM4MCg2NykgNzgtemVyby0zMS0xOA=="
-        , "email":  "bWFpbHRvOnRiYWx0cnVzaGFpdGlzQGdtYWlsLmNvbQ=="
+          "cell":   "507-995-2349"
+        , "email":  "amarquette@windwardschool.org"
       }
   }
 }
