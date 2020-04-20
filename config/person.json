@@ -6,10 +6,10 @@
         , "last":   "Marquette"
         , "full":   "@{./last} @{./first}"
       }
-    , "nick":   "Tom&acute;AS"
-    , "abbr":   "tbaltrushaitis"
+    , "nick":   "Aaron&acute;AS"
+    , "abbr":   "amarquette25"
     , "email":  "@{./abbr}@gmail.com"
-    , "url":    "http://bit.ly/tomascv"
+    , "url":    "urlforcv"
     , "bio": {
           "birth":        "May &apos;87"
         , "citizenship":  "citizenship"
@@ -22,9 +22,9 @@
           }
       }
     , "home": {
-          "pos-prefix": "full-stack"
-        , "pos-title":  "engineer"
-        , "pos-tags":   "#high #skilled #experienced #guru"
+          "pos-prefix": "Education Leader"
+        , "pos-title":  "Debate, Global Scholar Mentor, College Counseling Coordinator"
+        , "pos-tags":   "#... #charismatic #bricoleur #academic"
       }
     , "socials": {
         "li": {
