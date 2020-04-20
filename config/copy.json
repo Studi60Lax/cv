@@ -1,12 +1,12 @@
 {
   "author": {
       "name": {
-          "first": "Tomas"
-        , "last": "Baltrushaitis"
+          "first": "Aaron"
+        , "last": "Marquette"
         , "full": "@{./last} @{./first}"
       }
-    , "nick": "Tom&acute;AS"
-    , "abbr": "tbaltrushaitis"
+    , "nick": "Aaron&acute;AS"
+    , "abbr": "amarquette25"
     , "email": "@{./abbr}@gmail.com"
     , "url":   "https://github.com/@{./abbr}"
   }
